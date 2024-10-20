@@ -1,6 +1,6 @@
-## BlackJack Game
+# BlackJack Game
 
-규칙
+## 규칙
 
 블랙잭 규칙
 - 딜러와 게이머 단 2명만 존재한다.
@@ -13,4 +13,4 @@
 - 단 21을 초과하면 초과한 쪽이 진다.
 
 
-참고 : [블로그](https://jojoldu.tistory.com/62)
+참고 : [향로님의 블로그](https://jojoldu.tistory.com/62)
